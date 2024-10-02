@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rahul-mahajan-736366142/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-mahajan-736366142?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bnabzdjbys06v%2bqvkri4adg%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/mahajanrahul1308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahajanrahul1308" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rmaha07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rmaha07" height="30" width="40" /></a>
+<a href="https://rmahajan1333124.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rmaha07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
